@@ -7,5 +7,5 @@ def roll
 end
 
 def roll
-  
+  arr = []
 end
