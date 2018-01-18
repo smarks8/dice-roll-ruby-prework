@@ -8,4 +8,5 @@ end
 
 def roll
   arr = []
+  arr.sample
 end
